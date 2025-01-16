@@ -1,0 +1,8 @@
+__pycache__
+logs
+LongDataset/cnews.test.txt
+LongDataset/cnews.train.txt
+LongDataset/cnews.val.txt
+long-text.zip
+model.ckpt
+LongDataset
