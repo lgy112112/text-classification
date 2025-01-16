@@ -6,3 +6,4 @@ LongDataset/cnews.val.txt
 long-text.zip
 model.ckpt
 LongDataset
+THUCNews
